@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { TasksListComponent } from './components/tasks-list/tasks-list.component';
 
-@NgModule({
+@NgModule({ 
   declarations: [
     AppComponent,
     TasksListComponent
